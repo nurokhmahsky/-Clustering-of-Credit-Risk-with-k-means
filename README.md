@@ -11,8 +11,8 @@ Menentukan nilai K terbaik untuk Clustering
 menentukan 10 Top Score
 
 ## Data Understanding : 
-Source Data: https://www.kaggle.com/datasets/laotse/credit-risk-dataset
-Dataset terdiri dari 12 kolom, 32581 baris, terdapat 4011 missing value, 165 duplicated value
+#### Source Data: https://www.kaggle.com/datasets/laotse/credit-risk-dataset
+#### Dataset terdiri dari 12 kolom, 32581 baris, terdapat 4011 missing value, 165 duplicated value
 
 ## Data Dictionary:
 person_age				: usia (type : int)

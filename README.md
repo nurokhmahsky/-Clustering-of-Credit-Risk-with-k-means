@@ -33,6 +33,16 @@ menentukan 10 Top Score
 - Packages : pandas, numpy, seaborn, skylearn cluster, matplotlib dll
 <img width="532" alt="Screen Shot 2022-10-10 at 00 16 50" src="https://user-images.githubusercontent.com/112957682/194764806-dc9842fb-17a3-473c-8b04-4b5879530579.png">
 
+##	Data Cleansing
+- Missing Value
+<img width="710" alt="Screen Shot 2022-10-10 at 22 10 05" src="https://user-images.githubusercontent.com/112957682/194874041-a34cd525-f467-47ed-ac3e-c69677c6accb.png">
+- Duplicated Value
+  - Terdapat 165 value, lalu drop duplicated value
+- OUtlier 
+
+## EDA (Exploratory Data Analysis)
+
+
 
 
 

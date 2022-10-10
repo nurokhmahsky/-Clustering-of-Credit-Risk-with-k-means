@@ -7,8 +7,8 @@ Membuat Kredit Risk Clustering dengan Metode K-Means dan 10 Top Score pada Credi
 K-Means adalah salah satu algoritma yg bersifat unsupervised learning. (Unsupervised Learning adalah adalah salah satu tipe algoritma machine learning yg digunakan untuk menarik kesimpulan dari dataset. Metode ini hanya akan mempelajari suatu data berdasarkan clustering/pendekatan). K-Means memiliki fungsi untuk mengelompokkan data ke dalam data cluster. Algoritma ini dapat menerima data tanpa ada label kategori. K-Means algoritma juga termasuk metode non-hierarchy. Clustering algoritma K-Means memiliki tujuan untuk meminimalisir fungsi objective yang telah di set dalam proses clustering.
 
 ## Challenges:
-Menentukan nilai K terbaik untuk Clustering
-menentukan 10 Top Score
+- Menentukan nilai K terbaik untuk Clustering
+- Menentukan 10 Top Score
 
 ## Data Understanding : 
 - Source Data: https://www.kaggle.com/datasets/laotse/credit-risk-dataset

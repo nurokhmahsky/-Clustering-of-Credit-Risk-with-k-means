@@ -15,22 +15,22 @@ menentukan 10 Top Score
 - Dataset terdiri dari 12 kolom, 32581 baris, terdapat 4011 missing value, 165 duplicated value
 
 ## Data Dictionary:
-person_age				: usia (type : int)
-person_income  			: pendapatan tahunan (type : int)
-### person_home_ownership	: kepemilikan rumah (type : object)
-### person_emp_length		: lama kerja (dalam tahun) (type : float)
-### loan_intent				: loan intent (type : object)
-### loan_grade	 			: tingkat pinjaman (type : object)
-### loan_amnt				: jumlah pinjaman (type : int)
-### loan_int_rate				: suku bunga (type : float)
-### loan_status				: Status pinjaman (0 tidak default 1 default) (type : int)
-### loan_percent_income 		: percent pendapatan (type : float)
-### cb_person_default_on_file : default historis (type : object)
-### cb_person_cred_hist_length : panjang riwayat kredit (type : int)
+- person_age                  : usia (type : int)
+- person_income               : pendapatan tahunan (type : int)
+- person_home_ownership       : kepemilikan rumah (type : object)
+- person_emp_length           : lama kerja (dalam tahun) (type : float)
+- loan_intent                 : loan intent (type : object)
+- loan_grade                  : tingkat pinjaman (type : object)
+- loan_amnt                   : jumlah pinjaman (type : int)
+- loan_int_rate				        : suku bunga (type : float)
+- loan_status				          : Status pinjaman (0 tidak default 1 default) (type : int)
+- loan_percent_income 		    : percent pendapatan (type : float)
+- cb_person_default_on_file   : default historis (type : object)
+- cb_person_cred_hist_length  : panjang riwayat kredit (type : int)
 
 ## Data Preparation
-### Python atau google colab untuk editor
-### Packages : pandas, numpy, seaborn, skylearn cluster, matplotlib dll
+- Python atau google colab untuk editor
+- Packages : pandas, numpy, seaborn, skylearn cluster, matplotlib dll
 <img width="532" alt="Screen Shot 2022-10-10 at 00 16 50" src="https://user-images.githubusercontent.com/112957682/194764806-dc9842fb-17a3-473c-8b04-4b5879530579.png">
 
 

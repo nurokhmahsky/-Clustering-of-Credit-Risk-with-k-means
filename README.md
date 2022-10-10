@@ -54,11 +54,19 @@ menentukan 10 Top Score
 ### Bivariate Analysis
 - Lineplot Analysis Feature 'person_age, loan_amnt, cb_person_cred_hist_length'![bivariate](https://user-images.githubusercontent.com/112957682/194948176-ed316fc8-59c0-45d1-aafb-699e0819546d.png)
 - Dari gambar diatas dapat disimpulkan bahwa:
-1. perbedaan "loan_status" yg lumayan tinggi pada "person_age" > 60 tahun
-2. perbedaan yg tinggi juga antara "cb_person_cred_hist_length" dan "person_age" dengan value sekitar 50-70
-3. mengalami peningkatan value "loan_amnt" pada "cb_person_cred_hist_length" >15
+1. perbedaan 'loan_status' yg lumayan tinggi pada 'person_age' > 60 tahun
+2. perbedaan yg tinggi juga antara 'cb_person_cred_hist_length' dan 'person_age' dengan value sekitar 50-70
+3. mengalami peningkatan value 'loan_amnt' pada 'cb_person_cred_hist_length' >15
 
-
+- Heatmap Correlation feature 'person_age, loan_amnt, cb_person_cred_hist_length'![heatmap correlation](https://user-images.githubusercontent.com/112957682/194948841-6348b357-8b32-4aac-acaa-aa63cdc9d145.png)
+- Dari hasil korelasi heatmap diatas dapat dilihat ada korelasi positif antara feature 'person_age' dan 'cb_person_cred_hist_lenght'
+- Distplot Distribution feature 'person_age , loan_percent_income, person_emp_length'
+![distplot distribution](https://user-images.githubusercontent.com/112957682/194949514-ef86eedb-2ed2-4aba-80c5-3f48814722e4.png)
+- Distplot Log Transformation feature (person_age, loan_percent_income, person_emp_length) untuk menghilangkan Skewness ![log trans](https://user-images.githubusercontent.com/112957682/194950151-5de54cbe-d90c-47ce-99d3-b9add5d891d9.png)
+- K-Means Elbow Method Clustering untuk menentukan value K optimal![KMeans](https://user-images.githubusercontent.com/112957682/194951262-a47e6065-f9e7-428f-b10f-fb6465fb8975.png)
+- Cluster dengan Value K = 6
+-  3D Scatter Plot Cluster 6 ![newplot](https://user-images.githubusercontent.com/112957682/194952100-24e4b5f0-d629-45aa-bb31-b67f74112577.png)
+- Pie Chart Percentage Size of Clustering ![newplot (1)](https://user-images.githubusercontent.com/112957682/194953077-42931806-be5a-4ca3-bc86-68f4b91ec83a.png)
 
 
 

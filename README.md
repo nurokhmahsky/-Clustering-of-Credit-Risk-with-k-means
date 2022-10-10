@@ -48,11 +48,15 @@ menentukan 10 Top Score
 ### Univariate Analysisis 
   - Boxplot Univariate Numericals
 ![boxplot univariate numerik](https://user-images.githubusercontent.com/112957682/194946254-90939d64-8011-4d3c-98a5-489d9f56471e.png)
-  - countplot univariate categoricals
+  - Countplot Univariate Categoricals
 ![univariate countplot categorik](https://user-images.githubusercontent.com/112957682/194947042-dcd389c6-940c-4178-a6f2-9923bf8e74b9.png)
 
-- 
-- 
+### Bivariate Analysis
+- Lineplot Analysis Feature 'person_age, loan_amnt, cb_person_cred_hist_length'![bivariate](https://user-images.githubusercontent.com/112957682/194948176-ed316fc8-59c0-45d1-aafb-699e0819546d.png)
+- Dari gambar diatas dapat disimpulkan bahwa:
+1. perbedaan "loan_status" yg lumayan tinggi pada "person_age" > 60 tahun
+2. perbedaan yg tinggi juga antara "cb_person_cred_hist_length" dan "person_age" dengan value sekitar 50-70
+3. mengalami peningkatan value "loan_amnt" pada "cb_person_cred_hist_length" >15
 
 
 

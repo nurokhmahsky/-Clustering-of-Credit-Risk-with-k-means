@@ -40,6 +40,9 @@ menentukan 10 Top Score
 - Duplicated Value
   Terdapat 165 value, lalu drop duplicated value
 - Outlier 
+![outlier age](https://user-images.githubusercontent.com/112957682/194936742-62bdbc80-f8db-4ba9-89e6-166c93e267be.png)
+
+
 
 ## EDA (Exploratory Data Analysis)
 

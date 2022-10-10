@@ -45,6 +45,15 @@ menentukan 10 Top Score
 
 
 ## EDA (Exploratory Data Analysis)
+- Univariate Analysisis 
+  boxplot univariate numericals
+![boxplot univariate numerik](https://user-images.githubusercontent.com/112957682/194946254-90939d64-8011-4d3c-98a5-489d9f56471e.png)
+  countplot univariate categoricals
+![univariate countplot categorik](https://user-images.githubusercontent.com/112957682/194947042-dcd389c6-940c-4178-a6f2-9923bf8e74b9.png)
+
+- 
+- 
+
 
 
 

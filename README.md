@@ -69,7 +69,8 @@ K-Means adalah salah satu algoritma yg bersifat unsupervised learning. (Unsuperv
 - ![newplot](https://user-images.githubusercontent.com/112957682/194952100-24e4b5f0-d629-45aa-bb31-b67f74112577.png)
 - Pie Chart Percentage Size of Clustering ![newplot (1)](https://user-images.githubusercontent.com/112957682/194953077-42931806-be5a-4ca3-bc86-68f4b91ec83a.png)
 - Dari Pie Chart diatas dapat diketahui bahwa Percentage terbesar berada pada Cluster 2 sebesar 23.1%
-- Top 10 berdasarkan Feature 'persone_income, loan_amnt'![10top](https://user-images.githubusercontent.com/112957682/194954563-e8f8fe13-3e6b-4130-99e3-18048ccf391b.png)
+- Top 10 berdasarkan Feature 'persone_income, loan_amnt'
+- ![10top](https://user-images.githubusercontent.com/112957682/194954563-e8f8fe13-3e6b-4130-99e3-18048ccf391b.png)
 - Dari hasil Top 10 diatas dapat dilihat bahwa loan_amnt dengan angka person_income sebesar > 70000
 
 ## Sumber Referensi: 

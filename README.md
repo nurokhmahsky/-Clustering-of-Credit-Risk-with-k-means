@@ -35,10 +35,11 @@ menentukan 10 Top Score
 
 ##	Data Cleansing
 - Missing Value
-<img width="710" alt="Screen Shot 2022-10-10 at 22 10 05" src="https://user-images.githubusercontent.com/112957682/194874041-a34cd525-f467-47ed-ac3e-c69677c6accb.png">
+<img width="697" alt="Screen Shot 2022-10-10 at 22 19 46" src="https://user-images.githubusercontent.com/112957682/194875845-d0fcf5f8-13c6-4c9a-b345-ab5aa4de0cf2.png">
+
 - Duplicated Value
-  - Terdapat 165 value, lalu drop duplicated value
-- OUtlier 
+  Terdapat 165 value, lalu drop duplicated value
+- Outlier 
 
 ## EDA (Exploratory Data Analysis)
 
